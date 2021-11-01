@@ -1,0 +1,17 @@
+
+* {font-family: 'Helvetica', sans-serif; }
+h1 {color : red; }
+h2 { color : blue; }
+button { 
+  font-family: 'Times', serif;
+  font-weight: bolder;
+  
+}
+#ex1 {
+  border: 2px black solid;
+}
+.orange
+{
+  background-color:orange
+  
+}
